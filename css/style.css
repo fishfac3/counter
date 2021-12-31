@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  max-width: 500px;
+  width: 98%;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+button {
+  padding: 10px 25px;
+  cursor: pointer;
+}
+
+#increment-btn {
+  background-color: darkgreen;
+}
+
+#decrement-btn {
+  background-color: darkred;
+}
+
+#save-btn {
+  background-color: dimgrey;
+}
